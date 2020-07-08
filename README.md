@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Luke and I haven't decided what to put in this section.
+
 <!--
 **lwojcik/lwojcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
