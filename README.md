@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Łukasz. You can call me Luke. For most of the time I do front-end development, but I'm slowly pivoting into full-stack development and devops.
+I'm Łukasz. You can call me Luke. For most of the time I do front-end development, but I'm slowly pivoting into full-stack and devops. React, TypeScript and Node.js are my jam. 
 
 [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
 
