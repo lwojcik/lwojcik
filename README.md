@@ -2,8 +2,6 @@
 
 I'm Łukasz. You can call me Luke. For most of the time I do front-end development, but I'm slowly pivoting into full-stack and devops. React, TypeScript and Node.js are my jam. 
 
-[My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
+[LinkedIn](https://www.linkedin.com/in/lukaszwojcik/)
 
-[My current side project](https://github.com/sc2pte)
-
-[My homepage / contact](https://www.lukaszwojcik.net/)
+[Homepage / contact](https://www.lukaszwojcik.net/)
