@@ -6,6 +6,6 @@ I like React, TypeScript and Node.js.
 
 [LinkedIn](https://www.linkedin.com/in/lukaszwojcik/)
 
-[StackOverflow](https://stackoverflow.com/story/lukaszwojcik)
+[Stack Overflow](https://stackoverflow.com/story/lukaszwojcik)
 
 [Homepage / contact](https://www.lukaszwojcik.net/)
