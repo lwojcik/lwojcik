@@ -4,8 +4,9 @@ I'm Łukasz. You can call me Luke. For most of the time I do front-end developme
 
 I like React, TypeScript and Node.js. 
 
+
+[Homepage / contact](https://www.lukaszwojcik.net/)
+
 [LinkedIn](https://www.linkedin.com/in/lukaszwojcik/)
 
 [Stack Overflow](https://stackoverflow.com/story/lukaszwojcik)
-
-[Homepage / contact](https://www.lukaszwojcik.net/)
