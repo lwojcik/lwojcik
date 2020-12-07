@@ -8,6 +8,6 @@ I like React, TypeScript and Node.js.
 
 [Things I do](https://www.lukem.net/)
 
-[LinkedIn](https://www.linkedin.com/in/lukaszwojcik/)
+[My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
 
-[Stack Overflow](https://stackoverflow.com/story/lukaszwojcik)
+[My CV on Stack Overflow](https://stackoverflow.com/story/lukaszwojcik)
