@@ -9,4 +9,3 @@ Some cool things:
 * [My homepage](https://www.lukaszwojcik.net/)
 * [Things I do](https://www.lukem.net/)
 * [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
-* [My CV on Stack Overflow](https://stackoverflow.com/story/lukaszwojcik)
