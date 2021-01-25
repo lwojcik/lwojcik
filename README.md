@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Łukasz. You can call me Luke. I usually do front-end development, but I also dabble in full stack and devops.
+I'm Łukasz. You can call me Luke. I usually do front-end development, but I sometimes dabble in backend and devops.
 
 I like React, TypeScript and Node.js.
 
