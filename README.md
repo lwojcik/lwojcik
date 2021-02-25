@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Łukasz. You can call me Luke. I usually do front-end development, but I sometimes dabble in backend and devops.
+I'm Łukasz. You can call me Luke. I'm a frontend developer from Warsaw, Poland.
 
-I like React, TypeScript and Node.js.
+Taking my first steps in React, React Native, Typescript and Node.js.
 
 Some cool things:
 
