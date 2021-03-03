@@ -8,4 +8,4 @@ Some cool things:
 
 * [My homepage](https://www.lukaszwojcik.net/)
 * [Things I do](https://www.lukem.net/)
-* [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/){:rel="test"}
+* [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
