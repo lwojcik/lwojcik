@@ -8,5 +8,5 @@ Some cool things:
 
 * [My homepage](https://www.lukaszwojcik.net/)
 * [Things I do](https://www.lukem.net/)
-* [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
+* [LinkedIn](https://www.linkedin.com/in/lukaszwojcik/)
 * [Mastodon](https://mastodon.lukem.net/@lukem)
