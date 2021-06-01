@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Łukasz. You can call me Luke. I'm a frontend developer from Warsaw, Poland.
+I'm Łukasz. Or just Luke. I'm a frontend developer from Warsaw, Poland.
 
-Coding mostly in React, Typescript, Node.js and React Native.
+I code React, Typescript, Node.js and React Native.
 
 Some cool things:
 
