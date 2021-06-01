@@ -2,9 +2,9 @@
 
 I'm Łukasz. Or just Luke. I'm a frontend developer from Warsaw, Poland.
 
-I code React, Typescript, Node.js and React Native.
+I like React, Typescript, Node.js and React Native.
 
-Some cool things:
+Some other things of mine:
 
 * [My homepage](https://www.lukaszwojcik.net/)
 * [Things I do](https://www.lukem.net/)
