@@ -2,6 +2,8 @@
 
 I'm Łukasz. Or just Luke. I'm a frontend developer from Warsaw, Poland.
 
+Passionate craftsman. Always hungry, always foolish.
+
 I like React, TypeScript, Node.js and React Native. I occasionally dabble in backend and devops.
 
 Some other things of mine:
