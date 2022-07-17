@@ -8,8 +8,8 @@ I like React, TypeScript and Node.js. I occasionally dabble in backend and devop
 
 Some other things of mine:
 
-* [Homepage](https://www.lukaszwojcik.net/)
+* [Homepage (personal)](https://www.lukaszwojcik.net/)
+* [Homepage (business)](https://www.lukem.net/)
 * [My blog](https://www.offbeatbits.com/)
-* [My "business" homepage](https://www.lukem.net/)
 * [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
 * [My Mastodon profile](https://mastodon.lukem.net/@lukem)
