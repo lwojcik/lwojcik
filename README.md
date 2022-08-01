@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Łukasz. Or just Luke. I'm a web developer from Warsaw, Poland. My
+I'm Łukasz. Or just Luke. I'm a web developer from Warsaw, Poland.
 
 Passionate craftsman. Always hungry, always foolish.
 
