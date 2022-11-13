@@ -12,4 +12,4 @@ Some other things of mine:
 * [Homepage (business)](https://www.lukem.net/)
 * [My blog](https://www.offbeatbits.com/)
 * [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
-* [My Mastodon profile](https://mastodon.lukem.net/@lukem)
+* [My Mastodon profile](https://mstdn.social/@lukem)
