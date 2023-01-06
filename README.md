@@ -17,9 +17,9 @@ I like React, TypeScript and Node.js. I occasionally dabble in backend and devop
 ### Recent blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [The quest for purging my bookmarks](https://www.offbeatbits.com/the-quest-for-purging-my-bookmarks/)
 - [Jak działa HTTPS - na przykładzie gołębi pocztowych](https://www.offbeatbits.com/jak-dziala-https-na-przykladzie-golebi-pocztowych/)
 - [Summing up 2022](https://www.offbeatbits.com/summing-up-2022/)
 - [Getting into TikTok the hard way, busy human edition](https://www.offbeatbits.com/getting-into-tiktok-the-hard-way-busy-human-edition/)
 - [How to change your life with Twitch and StarCraft &lpar;vol. 3&rpar;](https://www.offbeatbits.com/how-to-change-your-life-with-twitch-and-starcraft-vol-3/)
-- [How to change your life with Twitch and StarCraft &lpar;vol. 2&rpar;](https://www.offbeatbits.com/how-to-change-your-life-with-twitch-and-starcraft-vol-2/)
 <!-- BLOG-POST-LIST:END -->
