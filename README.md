@@ -11,8 +11,6 @@ I like React, TypeScript and Node.js. I occasionally dabble in backend and devop
 * [Homepage (personal)](https://www.lukaszwojcik.net/)
 * [Homepage (business)](https://www.lukem.net/)
 * [My blog](https://www.offbeatbits.com/)
-* [My LinkedIn profile](https://www.linkedin.com/in/lukaszwojcik/)
-* [My Mastodon profile](https://masto.ai/@lukem)
 
 ### Recent blog posts:
 
