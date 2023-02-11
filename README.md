@@ -21,3 +21,5 @@ I like React, TypeScript and Node.js. I occasionally dabble in backend and devop
 - [Getting into TikTok the hard way, busy human edition](https://offbeatbits.com/getting-into-tiktok-the-hard-way-busy-human-edition/)
 - [How to change your life with Twitch and StarCraft &lpar;vol. 3&rpar;](https://offbeatbits.com/how-to-change-your-life-with-twitch-and-starcraft-vol-3/)
 <!-- BLOG-POST-LIST:END -->
+
+npub16dqhd5h9rdfpvv8yzxejq8v9t52l2398s6p9298mu65c785fk8usd6m0ar
