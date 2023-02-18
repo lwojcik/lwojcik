@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Łukasz. Or just Luke. I'm a web developer from Warsaw, Poland.
+I'm Łukasz. Or just Luke. I'm a software dev from Warsaw, Poland.
 
 Passionate craftsman. Always hungry, always foolish.
-
-I like React, TypeScript and Node.js. I occasionally dabble in backend and devops.
 
 ### Some other things of mine:
 
