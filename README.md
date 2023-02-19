@@ -2,7 +2,7 @@
 
 I'm Łukasz. Or just Luke. I'm a software dev from Warsaw, Poland.
 
-Passionate craftsman. Always hungry, always foolish.
+Always in search. Always listening. Always hungry. Always foolish.
 
 ### Some other things of mine:
 
