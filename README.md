@@ -8,9 +8,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 
 * [Homepage (personal)](https://www.lukaszwojcik.net/)
 * [Homepage (business)](https://www.lukem.net/)
-* [My blog](https://www.offbeatbits.com/)
+* [Offbeat Bits - my blog](https://www.offbeatbits.com/)
 
-### Recent blog posts:
+### Recently on Offbeat Bits:
 
 <!-- BLOG-POST-LIST:START -->
 - [New year, new me, new blog](https://offbeatbits.com/new-year-new-me-new-blog/)
