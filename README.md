@@ -13,9 +13,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 ### Recently on Offbeat Bits:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kultura pogardy](https://offbeatbits.com/kultura-pogardy/)
 - [New year, new me, new blog](https://offbeatbits.com/new-year-new-me-new-blog/)
 - [The quest for purging my bookmarks](https://offbeatbits.com/the-quest-for-purging-my-bookmarks/)
 - [Jak działa HTTPS - na przykładzie gołębi pocztowych](https://offbeatbits.com/jak-dziala-https-na-przykladzie-golebi-pocztowych/)
 - [Summing up 2022](https://offbeatbits.com/summing-up-2022/)
-- [Getting into TikTok the hard way, busy human edition](https://offbeatbits.com/getting-into-tiktok-the-hard-way-busy-human-edition/)
 <!-- BLOG-POST-LIST:END -->
