@@ -14,9 +14,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 ### Recently on Offbeat Bits:
 
 <!-- BLOG-POST-LIST:START -->
+- [Custom audio file as iPhone ringtone, the unnecessary manual](https://offbeatbits.com/custom-audio-file-as-iphone-ringtone-the-unnecessary-manual/)
 - [Words that doesn&#39;t exist in my language](https://offbeatbits.com/words-that-doesnt-exist-in-my-language/)
 - [On online places going down](https://offbeatbits.com/on-online-places-going-down/)
 - [Am I really better at English than native speakers?](https://offbeatbits.com/am-i-really-better-at-english-than-native-speakers/)
 - [Let&#39;s talk about that one photo](https://offbeatbits.com/lets-talk-about-that-one-photo/)
-- [How to make a PWA out of your Eleventy site](https://offbeatbits.com/how-to-make-a-pwa-out-of-your-eleventy-site/)
 <!-- BLOG-POST-LIST:END -->
