@@ -8,7 +8,7 @@ Always in search. Always listening. Always hungry. Always foolish.
 
 * [Personal homepage](https://lukaszwojcik.net/)
 * [My blog](https://blog.lukaszwojcik.net/)
-* [My photography collection](https://photo.lukaszwojcik.net/)
+* [My photography collection](https://lukemgraphy.eu/)
 * [Business homepage](https://lukem.net/)
 
 ### Recently on Offbeat Bits:
