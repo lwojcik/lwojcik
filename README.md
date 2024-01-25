@@ -6,9 +6,10 @@ Always in search. Always listening. Always hungry. Always foolish.
 
 ### Some other things of mine:
 
-* [Personal homepage](https://lukaszwojcik.net/)
+* [Homepage](https://lukaszwojcik.net/)
+* [My wiki](https://lukeswiki.eu/)
 * [My blog](https://blog.lukaszwojcik.net/)
-* [My photography collection](https://lukemgraphy.eu/)
+* [Photography collection](https://lukemgraphy.eu/)
 * [Business homepage](https://lukem.net/)
 
 ### Recently on Offbeat Bits:
