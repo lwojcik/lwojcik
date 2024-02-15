@@ -17,9 +17,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 ### Recently on Offbeat Bits:
 
 <!-- BLOG-POST-LIST:START -->
+- [An Excel spreadsheet](https://blog.lukaszwojcik.net/an-excel-spreadsheet/)
 - [Mój dziadek był nazistą](https://blog.lukaszwojcik.net/moj-dziadek-byl-nazista/)
 - [Me, my brain and communication asymmetry](https://blog.lukaszwojcik.net/me-my-brain-and-communication-asymmetry/)
 - [Summing up 2023](https://blog.lukaszwojcik.net/summing-up-2023/)
 - [Custom audio file as iPhone ringtone, the unnecessary manual](https://blog.lukaszwojcik.net/custom-audio-file-as-iphone-ringtone-the-unnecessary-manual/)
-- [Words that doesn&#39;t exist in my language](https://blog.lukaszwojcik.net/words-that-doesnt-exist-in-my-language/)
 <!-- BLOG-POST-LIST:END -->
