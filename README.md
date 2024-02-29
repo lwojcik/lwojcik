@@ -17,9 +17,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 ### Recently on Offbeat Bits:
 
 <!-- BLOG-POST-LIST:START -->
+- [My photography process](https://blog.lukaszwojcik.net/my-photography-process/)
 - [Eleventy: custom markup alongside item contents](https://blog.lukaszwojcik.net/eleventy-custom-markup-alongside-item-contents/)
 - [An Excel spreadsheet](https://blog.lukaszwojcik.net/an-excel-spreadsheet/)
 - [Mój dziadek był nazistą](https://blog.lukaszwojcik.net/moj-dziadek-byl-nazista/)
 - [Me, my brain and communication asymmetry](https://blog.lukaszwojcik.net/me-my-brain-and-communication-asymmetry/)
-- [Summing up 2023](https://blog.lukaszwojcik.net/summing-up-2023/)
 <!-- BLOG-POST-LIST:END -->
