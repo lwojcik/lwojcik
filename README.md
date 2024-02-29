@@ -14,7 +14,7 @@ Always in search. Always listening. Always hungry. Always foolish.
 * [Photography collection](https://lukemgraphy.eu/)
 * [Business homepage](https://lukem.net/)
 
-### Recently on Offbeat Bits:
+### Recently on my blog:
 
 <!-- BLOG-POST-LIST:START -->
 - [My photography process](https://blog.lukaszwojcik.net/my-photography-process/)
