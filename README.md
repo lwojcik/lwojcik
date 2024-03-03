@@ -17,9 +17,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 ### Recently on my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Eleventy: pathPrefix and GitHub Pages](https://blog.lukaszwojcik.net/eleventy-pathprefix-and-github-pages/)
 - [My photography process](https://blog.lukaszwojcik.net/my-photography-process/)
 - [Eleventy: custom markup alongside item contents](https://blog.lukaszwojcik.net/eleventy-custom-markup-alongside-item-contents/)
 - [An Excel spreadsheet](https://blog.lukaszwojcik.net/an-excel-spreadsheet/)
 - [Mój dziadek był nazistą](https://blog.lukaszwojcik.net/moj-dziadek-byl-nazista/)
-- [Me, my brain and communication asymmetry](https://blog.lukaszwojcik.net/me-my-brain-and-communication-asymmetry/)
 <!-- BLOG-POST-LIST:END -->
