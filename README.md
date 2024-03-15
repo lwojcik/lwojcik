@@ -17,9 +17,9 @@ Always in search. Always listening. Always hungry. Always foolish.
 ### Recently on my blog:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kwestie, które więcej osób powinno rozumieć w 2024 r.](https://blog.lukaszwojcik.net/kwestie-ktore-wiecej-osob-powinno-rozumiec-w-2024-r/)
 - [How to delete personal data from Wayback Machine](https://blog.lukaszwojcik.net/how-to-delete-personal-data-from-wayback-machine/)
 - [Eleventy: pathPrefix and GitHub Pages](https://blog.lukaszwojcik.net/eleventy-pathprefix-and-github-pages/)
 - [My photography process](https://blog.lukaszwojcik.net/my-photography-process/)
 - [Eleventy: custom markup alongside item contents](https://blog.lukaszwojcik.net/eleventy-custom-markup-alongside-item-contents/)
-- [An Excel spreadsheet](https://blog.lukaszwojcik.net/an-excel-spreadsheet/)
 <!-- BLOG-POST-LIST:END -->
