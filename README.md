@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi, I'm Łukasz 👋
 
-I'm Łukasz. Or just Luke. I'm a software dev from Warsaw, Poland.
+I wear many hats. I build software, photograph, write, translate and who knows what else. Life is too short to stick to one thing.
 
 Always in search. Always listening. Always hungry. Always foolish.
 
-### Some other things of mine:
+Hailing from Warsaw, Poland.
 
-* [Homepage](https://lukaszwojcik.net/)
-* [Photography](https://lukaszwojcik.photo/)
-* [(Rarely updated) blog](https://blog.lukaszwojcik.net/)
+### My other things:
+
+* [Homepage / contact](https://lukaszwojcik.net/)
+* [Photography site](https://lukaszwojcik.photo/)
+* [Rarely updated blog](https://blog.lukaszwojcik.net/)
