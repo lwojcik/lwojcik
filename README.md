@@ -10,4 +10,4 @@ Hailing from Warsaw, Poland.
 
 * [Homepage / contact](https://lukaszwojcik.net/)
 * [Photography site](https://lukaszwojcik.photo/)
-* [Rarely updated blog](https://blog.lukaszwojcik.net/)
+* [Blog](https://blog.lukaszwojcik.net/)
